@@ -1,3 +1,4 @@
+
 The Student Performance Analyzer is a menu-driven Python application that analyzes student performance using NumPy and a real-world Kaggle CSV dataset. The project loads student records from a CSV file and performs various statistical and analytical operations efficiently using NumPy arrays.
 
 # 📊 Student Performance Analyzer
@@ -95,3 +96,4 @@ This project uses the **Students Performance in Exams** dataset from Kaggle.
 ## 👨‍💻 Author
 
 **Anushka Tiwari**
+
