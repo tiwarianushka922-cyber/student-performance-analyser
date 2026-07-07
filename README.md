@@ -92,7 +92,8 @@ This project uses the **Students Performance in Exams** dataset from Kaggle.
 - Modular project structure
 
 ---
-
+##OUTPUT SCREENSHOTS 
+![output :](images/Screenshot%20(344).png)
 ## 👨‍💻 Author
 
 **Anushka Tiwari**
